@@ -3,7 +3,7 @@
 A side-scrolling arcade shooter built with Python and Pygame. This project demonstrates core Object-Oriented Programming (OOP) principles, real-time event handling, and dynamic scaling logic.
 
 <p align="center">
-   <img src="Alien_Invasion.gif" width="600" title="Demo">
+   <img src="Alien_Invasion.gif" width="300" title="Demo">
 </p>
 
 ## 🚀 Overview
