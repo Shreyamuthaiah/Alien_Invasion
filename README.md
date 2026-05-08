@@ -12,7 +12,7 @@ Alien Invasion is a project focused on creating a functional game engine from sc
 *   **State Management:** Seamless transitions between the "Play" menu and active gameplay.
 
 ## 🛠️ Technical Architecture
-*   **Language:** Python 3.x
+*   **Language:** Python 3.9
 *   **Library:** Pygame
 *   **Pattern:** Object-Oriented Programming (OOP)
 *   **Modules:** 
