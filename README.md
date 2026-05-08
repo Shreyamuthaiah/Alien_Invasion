@@ -2,6 +2,10 @@
 
 A side-scrolling arcade shooter built with Python and Pygame. This project demonstrates core Object-Oriented Programming (OOP) principles, real-time event handling, and dynamic scaling logic.
 
+<p align="center">
+   <img src="https://github.com/Shreyamuthaiah/Alien_Invasion/issues/1#issue-4408492695" width="600" title="Demo">
+</p>
+
 ## 🚀 Overview
 Alien Invasion is a project focused on creating a functional game engine from scratch. The player controls a ship, defends against waves of alien fleets, and earns points to reach new high scores. As the player progresses, the game increases in speed and difficulty.
 
