@@ -29,11 +29,12 @@ During development, I encountered a logic error where the high score was overwri
 Ensure you have Python installed. You will also need the `pygame` library:
 ```bash
 pip install pygame
-
+```
 ### 2. Running the game.
 Navigate to the project folder and run:
 ```bash
 python alien_invasion.py
+```
 
 ### 3.🎮 Controls
 
